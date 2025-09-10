@@ -1,0 +1,5 @@
+titulo=Welcome
+boton=Show Greeting
+ingresar_nombre=Please enter your name:
+saludo=Hello, %s! Good job!
+nombre_invalido=Name cannot be empty.
